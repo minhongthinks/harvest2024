@@ -1,0 +1,58 @@
+.elementor-252 .elementor-element.elementor-element-4bc1990{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--align-items:stretch;--gap:10px 10px;--background-transition:0.3s;--overlay-opacity:0.5;--padding-top:100px;--padding-bottom:150px;--padding-left:0px;--padding-right:0px;}.elementor-252 .elementor-element.elementor-element-4bc1990:not(.elementor-motion-effects-element-type-background), .elementor-252 .elementor-element.elementor-element-4bc1990 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-b091e76 );}.elementor-252 .elementor-element.elementor-element-4bc1990::before, .elementor-252 .elementor-element.elementor-element-4bc1990 > .elementor-background-video-container::before, .elementor-252 .elementor-element.elementor-element-4bc1990 > .e-con-inner > .elementor-background-video-container::before, .elementor-252 .elementor-element.elementor-element-4bc1990 > .elementor-background-slideshow::before, .elementor-252 .elementor-element.elementor-element-4bc1990 > .e-con-inner > .elementor-background-slideshow::before, .elementor-252 .elementor-element.elementor-element-4bc1990 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{--background-overlay:'';background-color:var( --e-global-color-primary );background-image:url("https://harvest2024.lavish-site.com/wp-content/uploads/2023/04/batik-background-01.webp");}.elementor-252 .elementor-element.elementor-element-4bc1990::before{filter:brightness( 100% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );}.elementor-252 .elementor-element.elementor-element-4bc1990, .elementor-252 .elementor-element.elementor-element-4bc1990::before{--border-transition:0.3s;}.elementor-252 .elementor-element.elementor-element-4bc1990 > .elementor-shape-bottom .elementor-shape-fill, .elementor-252 .elementor-element.elementor-element-4bc1990 > .e-con-inner > .elementor-shape-bottom .elementor-shape-fill{fill:var( --e-global-color-b091e76 );}.elementor-252 .elementor-element.elementor-element-4bc1990 > .elementor-shape-bottom svg, .elementor-252 .elementor-element.elementor-element-4bc1990 > .e-con-inner > .elementor-shape-bottom svg{width:calc(110% + 1.3px);height:80px;}.elementor-252 .elementor-element.elementor-element-9a36619{--display:flex;--background-transition:0.3s;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-252 .elementor-element.elementor-element-8a905ab{text-align:center;}.elementor-252 .elementor-element.elementor-element-8a905ab .elementor-heading-title{color:var( --e-global-color-secondary );font-family:"Unity", Sans-serif;font-size:45px;font-weight:bold;text-transform:uppercase;}.elementor-252 .elementor-element.elementor-element-8a905ab > .elementor-widget-container{padding:25px 0px 25px 0px;}.elementor-252 .elementor-element.elementor-element-02eb03d > .elementor-widget-container{padding:25px 25px 25px 25px;background-color:#FDFDFD;border-radius:20px 20px 20px 20px;}.elementor-252 .elementor-element.elementor-element-02eb03d.ha-has-bg-overlay > .elementor-widget-container:before{transition:background 0.3s;}@media(max-width:767px){.elementor-252 .elementor-element.elementor-element-4bc1990{--padding-top:50px;--padding-bottom:50px;--padding-left:15px;--padding-right:15px;}.elementor-252 .elementor-element.elementor-element-8a905ab .elementor-heading-title{font-size:30px;}.elementor-252 .elementor-element.elementor-element-8a905ab > .elementor-widget-container{padding:10px 10px 10px 10px;}.elementor-252 .elementor-element.elementor-element-02eb03d > .elementor-widget-container{padding:25px 25px 25px 25px;}}@media(min-width:768px){.elementor-252 .elementor-element.elementor-element-4bc1990{--content-width:1200px;}}/* Start custom CSS for shortcode, class: .elementor-element-02eb03d */input#gform_next_button_2_17,  input#gform_next_button_2_16, input#gform_submit_button_2  {
+    border-style: none; 
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right:30px;
+    background-color: #BD2026;
+    color: white;
+    outline: none;
+    
+}
+
+  
+input#gform_next_button_2_17:hover, input#gform_previous_button_2_16:hover, input#gform_next_button_2_16:hover, input#gform_previous_button_2:hover,input#gform_submit_button_2:hover {
+    border-style: none; 
+    background-color: black;
+    color: white;
+    outline: none;
+}
+
+.ginput_container_consent label {
+  display: inline;
+  margin-right: 10px;
+} 
+
+body {
+    font-family: "Unity";
+    font-weight: 600 ;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://harvest2024.lavish-site.com/wp-content/uploads/2023/04/TCCC-UnityText-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://harvest2024.lavish-site.com/wp-content/uploads/2023/04/TCCC-UnityCondensed-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://harvest2024.lavish-site.com/wp-content/uploads/2023/04/TCCC-UnityHeadline-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://harvest2024.lavish-site.com/wp-content/uploads/2023/04/TCCC-UnityHeadline-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

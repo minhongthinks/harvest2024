@@ -1,0 +1,29 @@
+.elementor-2 .elementor-element.elementor-element-81eb139{--display:flex;--min-height:100vh;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--justify-content:center;--align-items:center;--gap:10px 10px;--background-transition:0.3s;--overlay-opacity:0.5;}.elementor-2 .elementor-element.elementor-element-81eb139:not(.elementor-motion-effects-element-type-background), .elementor-2 .elementor-element.elementor-element-81eb139 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-primary );}.elementor-2 .elementor-element.elementor-element-81eb139::before, .elementor-2 .elementor-element.elementor-element-81eb139 > .elementor-background-video-container::before, .elementor-2 .elementor-element.elementor-element-81eb139 > .e-con-inner > .elementor-background-video-container::before, .elementor-2 .elementor-element.elementor-element-81eb139 > .elementor-background-slideshow::before, .elementor-2 .elementor-element.elementor-element-81eb139 > .e-con-inner > .elementor-background-slideshow::before, .elementor-2 .elementor-element.elementor-element-81eb139 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{--background-overlay:'';background-image:url("https://harvest2024.lavish-site.com/wp-content/uploads/2023/04/batik-background-01.webp");}.elementor-2 .elementor-element.elementor-element-81eb139, .elementor-2 .elementor-element.elementor-element-81eb139::before{--border-transition:0.3s;}.elementor-2 .elementor-element.elementor-element-ee9aa3f{text-align:center;}.elementor-2 .elementor-element.elementor-element-ee9aa3f .elementor-heading-title{color:#FFFFFF;font-family:"Poppins", Sans-serif;font-size:70px;font-weight:600;text-transform:uppercase;}.elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-wrapper{max-width:100%;}.elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-item{background-color:#FFFFFF00;}body:not(.rtl) .elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-item:not(:first-of-type){margin-left:calc( 80px/2 );}body:not(.rtl) .elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-item:not(:last-of-type){margin-right:calc( 80px/2 );}body.rtl .elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-item:not(:first-of-type){margin-right:calc( 80px/2 );}body.rtl .elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-item:not(:last-of-type){margin-left:calc( 80px/2 );}.elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-digits{font-family:"Unity", Sans-serif;font-size:64px;font-weight:400;}.elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-label{font-family:"Unity", Sans-serif;font-size:24px;font-weight:400;}@media(max-width:767px){.elementor-2 .elementor-element.elementor-element-ee9aa3f .elementor-heading-title{font-size:20px;}body:not(.rtl) .elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-item:not(:first-of-type){margin-left:calc( 30px/2 );}body:not(.rtl) .elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-item:not(:last-of-type){margin-right:calc( 30px/2 );}body.rtl .elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-item:not(:first-of-type){margin-right:calc( 30px/2 );}body.rtl .elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-item:not(:last-of-type){margin-left:calc( 30px/2 );}.elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-digits{font-size:40px;}.elementor-2 .elementor-element.elementor-element-f4a1380 .elementor-countdown-label{font-size:18px;}}@media(min-width:768px){.elementor-2 .elementor-element.elementor-element-81eb139{--content-width:1400px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://harvest2024.lavish-site.com/wp-content/uploads/2023/04/TCCC-UnityText-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://harvest2024.lavish-site.com/wp-content/uploads/2023/04/TCCC-UnityCondensed-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://harvest2024.lavish-site.com/wp-content/uploads/2023/04/TCCC-UnityHeadline-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://harvest2024.lavish-site.com/wp-content/uploads/2023/04/TCCC-UnityHeadline-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
